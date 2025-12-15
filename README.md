@@ -13,3 +13,4 @@ Use GridSearchCV to tune C for Logistic Regression and alpha for MultinomialNB.
 Create an inference API using FastAPI that loads text, pipeline, and exposes POST /predict.
 
 (Advanced) Fine-tune a small transformer (e.g., DistilBERT) for sentiment classification using HuggingFace transformers
+------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-------------------------|
